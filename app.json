@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "insane-todo",
-    "slug": "insane-todo",
+    "name": "animated-todo",
+    "slug": "animated-todo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

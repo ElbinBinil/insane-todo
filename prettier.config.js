@@ -1,10 +1,10 @@
-const options = {
-  arrowParens: "avoid",
+const options ={
+  arrowParens: 'avoid',
   singleQuote: true,
   backetSpacing: true,
-  endOfLine: "lf",
+  endOfLine: 'lf',
   semi: false,
   tabWidth: 2,
-  trailingComma: "none",
-};
-module.exports = options;
+  trailingComma: 'none'
+}
+module.exports = options
