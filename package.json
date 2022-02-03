@@ -1,19 +1,19 @@
 {
-  "name": "animated-todo",
-  "description": "A smoothly animated ToDo app built with React Native",
+  "name": "insane-todo",
+  "description": "A open source todo app created using React Native",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/craftzdog/react-native-animated-todo.git"
+    "url": "git+https://github.com/elbinbinil/insane-todo.git"
   },
   "author": {
-    "name": "Takuya Matsuyama",
-    "url": "https://www.craftz.dog/"
+    "name": "Elbin Binil",
+    "url": "https://elbinbinil.github.io/"
   },
   "license": "MIT",
   "keywords": [
     "react-native",
-    "tutorial",
+    "simple-app",
     "todo"
   ],
   "main": "node_modules/expo/AppEntry.js",
