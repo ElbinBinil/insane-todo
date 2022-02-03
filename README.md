@@ -1,5 +1,5 @@
 # Insane Todo App
-This is a simple todo app created using **react-native** and some other technology and contributions to this app is welcomed by following the contributing rules for this project
+This is a simple todo app created using **react-native** and some other technology and contributions to this app is welcomed by following the [contributing rules](https://github.com/ElbinBinil/insane-todo#contributing-to-the-project) for this project
 
 ##  Tech Stack
 - [React Native](https://reactnative.dev/) - ReactJS-based framework used for making native application
