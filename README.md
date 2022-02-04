@@ -1,4 +1,6 @@
 # Insane Todo App
+![Logo](./assets/icon.png)
+
 This is a simple todo app created using **react-native** and some other technology and contributions to this app is welcomed by following the [contributing rules](https://github.com/ElbinBinil/insane-todo#contributing-to-the-project) for this project
 
 ##  Tech Stack
