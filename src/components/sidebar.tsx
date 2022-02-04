@@ -51,7 +51,7 @@ const Sidebar = (props: DrawerContentComponentProps) => {
           />
         </HStack>
         <Avatar
-          source={require('../assets/profile-image.png')}
+          source={require('../assets/profileavatar.jpg')}
           size="xl"
           borderRadius={100}
           mb={6}

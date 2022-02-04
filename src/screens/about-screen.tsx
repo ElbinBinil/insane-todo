@@ -23,7 +23,7 @@ const AboutScreen = () => {
     >
       <Masthead
         title="About this app"
-        image={require('../assets/about-masthead.png')}
+        image={require('../assets/abt-head.jpg')}
       >
         <Navbar />
       </Masthead>
